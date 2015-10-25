@@ -1,4 +1,7 @@
 # grunt-htmlcs
+
+[![npm version](https://badge.fury.io/js/grunt-htmlcs.svg)](https://badge.fury.io/js/grunt-htmlcs)
+
 Grunt task for HTML linter: [htmlcs](https://github.com/ecomfe/htmlcs).
 
 ## Installation
