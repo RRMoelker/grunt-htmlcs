@@ -1,17 +1,17 @@
-module.exports = function( grunt ) {
-    "use strict";
+module.exports = function(grunt) {
+  'use strict';
 
-    grunt.initConfig({
-        htmlcs: {
-            all: {
-                files: {
-                    src: ['src/{,**/}*.html']
-                }
-            }
+  grunt.initConfig({
+    htmlcs: {
+      all: {
+        files: {
+          src: ['src/{,**/}*.html']
         }
-    });
+      }
+    }
+  });
 
-    grunt.loadNpmTasks('grunt-htmlcs');
+  grunt.loadNpmTasks('grunt-htmlcs');
 
-    grunt.registerTask( "default", "htmlcs" );
+  grunt.registerTask('default', 'htmlcs');
 };

@@ -20,5 +20,8 @@
   },
   "dependencies": {
     "htmlcs": "^0.1.4"
+  },
+  "devDependencies": {
+    "grunt-jscs": "^2.2.0"
   }
 }
