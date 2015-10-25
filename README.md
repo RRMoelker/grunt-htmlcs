@@ -33,6 +33,7 @@ And run it:
 grunt htmlcs:all
 ```
 
+See the simple [full example](example/Gruntfile.js).
 
 ## Configuration
 
