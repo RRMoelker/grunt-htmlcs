@@ -1,0 +1,24 @@
+{
+  "name": "grunt-htmlcs",
+  "description": "Grunt htmlcs tasks to lint HTML.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "Ruurd Moelker <rmoelker@xebia.com>",
+  "main": "tasks/htmlcs.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RRMoelker/grunt-htmlcs.git"
+  },
+  "keywords": [
+    "grunt",
+    "htmlcs",
+    "html",
+    "lint"
+  ],
+  "bugs": {
+    "url": "https://github.com/RRMoelker/grunt-htmlcs/issues"
+  },
+  "dependencies": {
+    "htmlcs": "^0.1.4"
+  }
+}
