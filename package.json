@@ -1,7 +1,7 @@
 {
   "name": "grunt-htmlcs",
   "description": "Grunt htmlcs task to lint HTML.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "license": "MIT",
   "author": "Ruurd Moelker <rmoelker@xebia.com>",
   "main": "tasks/htmlcs.js",

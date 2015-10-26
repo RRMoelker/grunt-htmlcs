@@ -4,9 +4,7 @@ module.exports = function(grunt) {
   grunt.initConfig({
     htmlcs: {
       all: {
-        files: {
-          src: ['src/{,**/}*.html']
-        }
+        src: ['src/**/*.html']
       }
     }
   });
