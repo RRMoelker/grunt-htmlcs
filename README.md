@@ -12,21 +12,19 @@ npm install grunt-htmlcs
 
 ## Usage
 
-Add a the Grunt configuration:
+Add to the Grunt configuration:
 
-```
+```javascript
 htmlcs: {
     all: {
-        files: {
-            src: ['src/{,**/}*.html']
-        }
+        src: ['src/**/*.html']
     }
 }
 ```
 
 Load the task:
 
-```
+```javascript
 grunt.loadNpmTasks('grunt-htmlcs');
 ```
 
